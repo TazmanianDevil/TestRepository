@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" build-on-make="true" name="MySessionBean:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySessionBean_ejb_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="MySessionBean" />
+      <element id="javaee-facet-resources" facet="MySessionBean/ejb/EJB" />
+      <element id="artifact" artifact-name="LocalClient:war exploded" />
+    </root>
+  </artifact>
+</component>
